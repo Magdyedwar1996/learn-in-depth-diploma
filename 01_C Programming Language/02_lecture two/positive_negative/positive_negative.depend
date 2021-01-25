@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599932160 source:e:\code blocks\c projects\positive_negative\main.c
+	<stdio.h>
+	<stdlib.h>
+
